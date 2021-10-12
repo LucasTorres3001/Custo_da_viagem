@@ -1,2 +1,8 @@
 # Custo_da_viagem
- Esta atividade JSP simula o custo de uma viagem. Basicamente, assim: O usuário informa a posição inicial de um veículo; A velocidade inicial; A aceleração; E o tempo gasto pelo veículo durante a viagem. No final, o programa mostrará a distância percorrida pelo veículo até o ponto de chegada e o custo da viagem.
+ Esta atividade JSP simula o custo de uma viagem. Basicamente, assim:
+ - O usuário informa a ___posição inicial___ de um veículo;
+ - A ___velocidade inicial___;
+ - A ___aceleração___;
+ - E o ___tempo___ gasto pelo veículo durante a viagem.
+ 
+ No final, o programa mostrará a ___distância percorrida___ pelo veículo até o _ponto de chegada_ e o ___custo da viagem___.
